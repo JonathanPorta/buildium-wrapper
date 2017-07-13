@@ -1,7 +1,7 @@
 ### buildium-wrapper
-The plan was to somehow wrap the buildium tenant site and show it on a private domain, but, due to the way buildium works, it doesn't seem possible at this time.
+The plan was to somehow wrap the Buildium tenant site and show it on a private domain, but, due to the way Buildium works, it doesn't seem possible at this time. And, Buildium doesn't let you use your own domain name. You're stuck with their dumb subdomain. =(
 
-These file do a JS redirect.
+These files do a JS redirect.
 
 However, better luck/performance/everything can be had by simply doing this:
 
